@@ -1,0 +1,10 @@
+Write “Enter the number of inputs”
+Read n
+Write “Enter the numbers”
+Read   i0,i1 ,...,in
+Set sumOfSquares to 0
+For every i in in
+	sumOfSquares is equal to sumOfSquares plus  in2
+Write sumOfSquares
+Else
+Write sumOfSquares	
